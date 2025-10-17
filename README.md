@@ -243,7 +243,6 @@ La IA no sustituye criterio, pero **acelera el trabajo duro**: escarba, contrast
 
 ## Licencia y aportes
 
-- Abre **issues** o **PRs** con mejoras y nuevas plantillas.  
 - ¿Ideas para proveedores o integraciones? ¡Bienvenidas!
 
 ---
