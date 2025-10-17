@@ -62,6 +62,10 @@ Un investigador que no bosteza. Un asistente que no se dispersa.
 
 > **PDFs**: si es un PDF de **imágenes/scan**, realiza **OCR previo** (esta app no hace OCR).
 
+<!-- Diagrama de Flujo (PNG) -->
+<p align="center">
+  <img src="assets/diagrama_de_flujo20.png" alt="Diagrama de flujo del sistema" width="1200" style="max-width:100%; height:auto;">
+</p>
 ---
 
 ## La GUI, en dos palabras
@@ -71,6 +75,10 @@ Un investigador que no bosteza. Un asistente que no se dispersa.
   - Vista por pasos (**consultas**, **web**, **RAG**, **razonamiento**, **respuesta**).  
   - Botón para **copiar** la respuesta final.
 
+<!-- Demo GUI -->
+<p align="center">
+  <img src="assets/demo_gui.gif" alt="Demo de la GUI" width="880" style="max-width:100%; height:auto;">
+</p>
 ---
 
 ## Requisitos previos
