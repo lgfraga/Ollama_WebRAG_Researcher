@@ -1,0 +1,22 @@
+langgraph
+langchain-core
+langchain-community
+langchain-openai
+langchain-experimental
+langchain-text-splitters
+langchain-ollama
+langchain-chroma
+chromadb
+ollama
+tavily-python
+python-dotenv
+streamlit
+streamlit-nested-layout
+pdfplumber
+pyperclip
+chardet
+pydantic
+ddgs
+requests
+# (Opcional) Para usar con loaders "unstructured":
+# unstructured
