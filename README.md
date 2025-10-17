@@ -252,7 +252,16 @@ La IA no sustituye criterio, pero **acelera el trabajo duro**: escarba, contrast
 ## Licencia y aportes
 
 - ¿Ideas para proveedores o integraciones? ¡Bienvenidas!
-
+	
 ---
 
 Abre `http://localhost:8501`, elige tu plantilla, sube tus documentos, decide el modo… y **que hable la evidencia**.
+
+## Licencia
+
+El contenido de este repositorio está bajo la licencia **Creative Commons Atribución-NoComercial-SinDerivadas 3.0 (CC BY-NC-ND 3.0)**.  
+Consulta el archivo [LICENSE](LICENSE) y los siguientes enlaces oficiales:
+
+- **Resumen (ES):** https://creativecommons.org/licenses/by-nc/3.0/es/  
+- **Código legal (ES):** https://creativecommons.org/licenses/by-nc/3.0/es/legalcode.es  
+- **Código legal (EN):** https://creativecommons.org/licenses/by-nc-nd/3.0/legalcode
