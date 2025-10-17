@@ -77,7 +77,7 @@ Un investigador que no bosteza. Un asistente que no se dispersa.
 
 <!-- Demo GUI -->
 <p align="center">
-  <img src="assets/demo_gui.gif" alt="Demo de la GUI" width="880" style="max-width:100%; height:auto;">
+  <img src="assets/demo2_1fps_1280x720.gif" alt="Demo de la GUI" width="880" style="max-width:100%; height:auto;">
 </p>
 ---
 
