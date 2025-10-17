@@ -75,10 +75,7 @@ Un investigador que no bosteza. Un asistente que no se dispersa.
   - Vista por pasos (**consultas**, **web**, **RAG**, **razonamiento**, **respuesta**).  
   - Botón para **copiar** la respuesta final.
 
-<!-- Demo GUI -->
-<p align="center">
-  <img src="assets/demo2_1fps_1280x720.gif" alt="Demo de la GUI" width="880" style="max-width:100%; height:auto;">
-</p>
+![Demo de la GUI](assets/demo_gui.gif)
 ---
 
 ## Requisitos previos
