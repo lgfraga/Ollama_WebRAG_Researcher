@@ -127,8 +127,8 @@ SERPER_API_KEY=" "
 
 ```powershell
 # 1) Clonar el repositorio
-cd C:git clone <MI_REPO> ollama_webrag_researcher
-cd ollama_webrag_researcher
+git clone https://github.com/lgfraga/Ollama_WebRAG_Researcher.git
+cd Ollama_WebRAG_Researcher
 
 # 2) Entorno virtual
 python -m venv .venv
